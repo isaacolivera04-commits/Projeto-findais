@@ -1,0 +1,14 @@
+# Compilados Java
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
