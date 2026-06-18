@@ -78,4 +78,4 @@ java  -cp ".;mysql-connector.jar" senac.solutions.Main
 ## Equipe
 
 - Isaac Oliveira  
-- [Adicione os demais membros da equipe]
+- Danúbia Aparecida
